@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Group Suite">
+	<test name="First Test">
+		
+		<classes>
+			<class name="Common.Reports"></class>
+			
+			<class name="Common.Task"></class>
+			<class name="Common.TimeTrack"></class>
+		</classes>
+		
+	</test>
+	
+	
+	
+</suite>
